@@ -6,7 +6,7 @@ I build products at the intersection of **software**, **design systems**, and **
 
 # 🚀 Live projects
 
-## <img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle
+<h3><img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle</h3>
 
 <a href="https://www.riskangle.com/">www.riskangle.com</a>
 
