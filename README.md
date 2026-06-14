@@ -32,7 +32,7 @@ Unified case management for private investigation agencies - cases, tasks, invoi
 
 # 🔭 Currently building
 
-**ArtisanUX** - A custom UI library with pre-defined layouts and advanced features so developers can focus on content. I'm designing a new experience where an **AI agent is the primary mode of interaction**.
+**ArtisanUX** - A custom UI library with pre-defined layouts and advanced features so developers can focus on content. I am currently designing a new user experience where an **AI agent is the primary mode of interaction** without sacrificing manual workflows.
 
 **AI Development Agency** - A coordinated team of specialized AI agents that automate development like a formal tech org: a coordinator delegates to specialty subagents and loops in the developer for feedback along the way. The goal is an experience where the developer feels like the **leader of a robust team**, not a solo prompt engineer.
 
