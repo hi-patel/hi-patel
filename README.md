@@ -42,6 +42,8 @@ Unified case management for private investigation agencies - cases, tasks, invoi
 
 **Oncology research** - I'm interested in helping research groups **operationalize their data** so findings turn into action faster. I'm also exploring ways to help teams **monetize data responsibly** so programs can become self-sufficient and sustainable.
 
+**Operational Consolidation** - The SaaS marketplace has gotten overwhelming. Every little aspect of a company's operations now has a special dedicated SaaS, each with its own subscription that is only getting more expensive. I am interested in creating proprietary platforms for large businesses to replace all of their software vendors with a single comprehensive one that they own. 
+
 If you're working on related problems, I'm happy to connect.
 
 <br />
