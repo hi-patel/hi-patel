@@ -6,13 +6,31 @@ I build products at the intersection of **software**, **design systems**, and **
 
 ### 🚀 Live projects
 
-**[RiskAngle](https://www.riskangle.com/)**
+<table>
+  <tr>
+    <td width="40" valign="top"><img src="images/riskangle_icon.png" width="32" alt="" /></td>
+    <td valign="top">
+      <strong>RiskAngle</strong><br />
+      <a href="https://www.riskangle.com/">www.riskangle.com</a><br /><br />
+      AI platform that turns dense medical records into actionable summaries and chronologies—built for insurance and legal teams.<br /><br />
+      <a href="https://www.riskangle.com/"><img src="images/riskangle%20-%20chatbot%20screenshot.png" alt="RiskAngle chatbot interface" height="200" /></a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.riskangle.com/"><img src="images/riskangle%20-%20chatbot%20screenshot.png" alt="RiskAngle chatbot interface" width="640" /></a>
+<br />
 
-**[SherlockDocs](https://www.sherlockdocs.com/)**
-
-<a href="https://www.sherlockdocs.com/"><img src="images/sherlockdocs%20-%20case%20manager%20screenshot.png" alt="SherlockDocs case manager interface" width="640" /></a>
+<table>
+  <tr>
+    <td width="40" valign="top"><img src="images/sherlockdocs_icon.png" width="32" alt="" /></td>
+    <td valign="top">
+      <strong>SherlockDocs</strong><br />
+      <a href="https://www.sherlockdocs.com/">www.sherlockdocs.com</a><br /><br />
+      Unified case management for private investigation agencies—cases, tasks, invoicing, media storage, and reports in one platform.<br /><br />
+      <a href="https://www.sherlockdocs.com/"><img src="images/sherlockdocs%20-%20case%20manager%20screenshot.png" alt="SherlockDocs case manager interface" height="200" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
