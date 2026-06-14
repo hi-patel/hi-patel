@@ -24,7 +24,9 @@ AI platform that turns dense medical records into actionable summaries and chron
 
 Unified case management for private investigation agencies—cases, tasks, invoicing, media storage, and reports in one platform.
 
-<a href="https://www.sherlockdocs.com/"><img src="images/sherlockdocs%20-%20case%20manager%20screenshot.png" alt="SherlockDocs case manager interface" height="200" /></a>
+| Case Management | Report Writer | Invoicing |
+| --------------- | ------------- | --------- |
+| <img src="images/sherlockdocs/case_manager.png" alt="" /> | <img src="images/sherlockdocs/report_writer.png" alt="" /> | <img src="images/sherlockdocs/Invoicing.png" alt="" /> |
 
 <br />
 
