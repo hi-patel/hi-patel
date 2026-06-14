@@ -1,10 +1,10 @@
-# Hi, I'm Hiren 👋
+# Hi, I'm Hiren
 
 I build products at the intersection of **software**, **design systems**, and **AI-assisted development** with a growing interest in applying those skills to research and healthcare data.
 
 <br />
 
-# 🚀 Live projects
+# Live projects
 
 ### <img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" />&nbsp;RiskAngle
 
