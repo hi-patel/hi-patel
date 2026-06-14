@@ -6,7 +6,7 @@ I build products at the intersection of **software**, **design systems**, and **
 
 ### 🚀 Live projects
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="40" valign="top"><img src="images/riskangle_icon.png" width="32" alt="" /></td>
     <td valign="top">
@@ -20,7 +20,7 @@ I build products at the intersection of **software**, **design systems**, and **
 
 <br />
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="40" valign="top"><img src="images/sherlockdocs_icon.png" width="32" alt="" /></td>
     <td valign="top">
