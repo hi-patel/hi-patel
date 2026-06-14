@@ -6,7 +6,7 @@ I build products at the intersection of **software**, **design systems**, and **
 
 # 🚀 Live projects
 
-<h3><img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle</h3>
+<h2><img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" />&nbsp;RiskAngle</h2>
 
 <a href="https://www.riskangle.com/">www.riskangle.com</a>
 
@@ -18,7 +18,7 @@ AI platform that turns dense medical records into actionable summaries and chron
 
 <br />
 
-## <img src="images/sherlockdocs_icon.png" style="height: 1.25em;" alt="" /> SherlockDocs
+<h2><img src="images/sherlockdocs_icon.png" style="height: 1.25em;" alt="" />&nbsp;SherlockDocs</h2>
 
 <a href="https://www.sherlockdocs.com/">www.sherlockdocs.com</a>
 
