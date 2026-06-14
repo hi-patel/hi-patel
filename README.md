@@ -1,10 +1,10 @@
-## Hi, I'm Hiren 👋
+# Hi, I'm Hiren 👋
 
 I build products at the intersection of **software**, **design systems**, and **AI-assisted development**—with a growing interest in applying those skills to research and healthcare data.
 
 ---
 
-### 🚀 Live projects
+# 🚀 Live projects
 
 ## <img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle
 
@@ -28,7 +28,7 @@ Unified case management for private investigation agencies—cases, tasks, invoi
 
 ---
 
-### 🔭 Currently building
+# 🔭 Currently building
 
 **ArtisanUX** — A custom UI library with pre-defined layouts and advanced features so developers can focus on content. I'm designing a new experience where an **AI agent is the primary mode of interaction**.
 
@@ -36,7 +36,7 @@ Unified case management for private investigation agencies—cases, tasks, invoi
 
 ---
 
-### 🤝 Open to collaborating
+# 🤝 Open to collaborating
 
 **Oncology research** — I'm interested in helping research groups **operationalize their data** so findings turn into action faster. I'm also exploring ways to help teams **monetize data responsibly** so programs can become self-sufficient and sustainable.
 
@@ -44,7 +44,7 @@ If you're working on related problems, I'm happy to connect.
 
 ---
 
-### 💬 Ask me about
+# 💬 Ask me about
 
 Product engineering · design systems · agentic workflows · research data platforms
 
