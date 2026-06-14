@@ -6,17 +6,19 @@ I build products at the intersection of **software**, **design systems**, and **
 
 ### 🚀 Live projects
 
-### <img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle
+## <img src="images/riskangle_icon.png" style="height: 1.25em;" alt="" /> RiskAngle
 
 <a href="https://www.riskangle.com/">www.riskangle.com</a>
 
 AI platform that turns dense medical records into actionable summaries and chronologies—built for insurance and legal teams.
 
-<a href="https://www.riskangle.com/"><img src="images/riskangle%20-%20chatbot%20screenshot.png" alt="RiskAngle chatbot interface" height="200" /></a>
+| Generative Summaries | AI Assistant | Cited Content |
+| -------------------- | ------------ | ------------- |
+| <img src="images/riskangle/custom_reports.png" alt="" /> | <img src="images/riskangle/chatbot.png" alt="" /> | <img src="images/riskangle/export.png" alt="" /> |
 
 <br />
 
-### <img src="images/sherlockdocs_icon.png" style="height: 1.25em;" alt="" /> SherlockDocs
+## <img src="images/sherlockdocs_icon.png" style="height: 1.25em;" alt="" /> SherlockDocs
 
 <a href="https://www.sherlockdocs.com/">www.sherlockdocs.com</a>
 
