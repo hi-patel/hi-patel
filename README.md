@@ -2,7 +2,7 @@
 
 I build products at the intersection of **software**, **design systems**, and **AI-assisted development**—with a growing interest in applying those skills to research and healthcare data.
 
----
+<br />
 
 # 🚀 Live projects
 
@@ -26,7 +26,7 @@ Unified case management for private investigation agencies—cases, tasks, invoi
 
 <a href="https://www.sherlockdocs.com/"><img src="images/sherlockdocs%20-%20case%20manager%20screenshot.png" alt="SherlockDocs case manager interface" height="200" /></a>
 
----
+<br />
 
 # 🔭 Currently building
 
@@ -34,7 +34,7 @@ Unified case management for private investigation agencies—cases, tasks, invoi
 
 **AI Development Agency** — A coordinated team of specialized AI agents that automate development like a formal tech org: a coordinator delegates to specialty subagents and loops in the developer for feedback along the way. The goal is an experience where the developer feels like the **leader of a robust team**, not a solo prompt engineer.
 
----
+<br />
 
 # 🤝 Open to collaborating
 
@@ -42,7 +42,7 @@ Unified case management for private investigation agencies—cases, tasks, invoi
 
 If you're working on related problems, I'm happy to connect.
 
----
+<br />
 
 # 💬 Ask me about
 
