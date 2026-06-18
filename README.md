@@ -24,6 +24,10 @@ AI platform that turns dense medical records into actionable summaries and chron
 
 Unified case management for private investigation agencies - cases, tasks, invoicing, media storage, and reports in one platform.
 
+Technical Highlights:
+- Microservice Architecture
+- Tech-agnostic backends. Core service is Python+Django while Invoicing service is Node+tRPC
+
 | Case Management | Report Writer | Invoicing |
 | --------------- | ------------- | --------- |
 | <img src="images/sherlockdocs/case_manager.png" alt="" /> | <img src="images/sherlockdocs/report_writer.png" alt="" /> | <img src="images/sherlockdocs/Invoicing.png" alt="" /> |
@@ -32,7 +36,7 @@ Unified case management for private investigation agencies - cases, tasks, invoi
 
 # 🔭 Currently building
 
-**ArtisanUX** - A custom UI library with pre-defined layouts and advanced features so developers can focus on content. I am currently designing a new user experience where an **AI agent is the primary mode of interaction** without sacrificing manual workflows.
+**ArtisanUX** - A custom UI library with pre-defined layouts and advanced features so developers can focus on content. I am currently designing a new copilot experience where an AI agent is the primary mode of interaction **without sacrificing manual workflows**.
 
 **AI Development Agency** - A coordinated team of specialized AI agents that automate development like a formal tech org: a coordinator delegates to specialty subagents and loops in the developer for feedback along the way. The goal is an experience where the developer feels like the **leader of a robust team**, not a solo prompt engineer.
 
